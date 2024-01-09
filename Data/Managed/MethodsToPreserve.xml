@@ -1,0 +1,14 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="MenuManager">
+			<method name="StartGame"/>
+			<method name="ToggleVisualizer"/>
+		</type>
+		<type fullname="Player">
+			<method name="PlayAgain"/>
+			<method name="SelectWeapon"/>
+			<method name="SelectWeapon"/>
+			<method name="SelectWeapon"/>
+		</type>
+	</assembly>
+</linker>
